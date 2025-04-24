@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/online-earning-app/static/css/main.0555933e.css",
+    "main.js": "/online-earning-app/static/js/main.5baea756.js",
+    "index.html": "/online-earning-app/index.html",
+    "main.0555933e.css.map": "/online-earning-app/static/css/main.0555933e.css.map",
+    "main.5baea756.js.map": "/online-earning-app/static/js/main.5baea756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0555933e.css",
+    "static/js/main.5baea756.js"
+  ]
+}
